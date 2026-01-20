@@ -6,8 +6,8 @@ I'm a third year computer science student at West Virginia University interested
 - ⭐️ Low-Level Systems Software
 
 
-## Tools and Technologies 💻
-# Languages 👩‍💻
+# Tools and Technologies 💻
+## Languages 👩‍💻
 -  ⭐️ Python
 -  ⭐️ Java
 -  ⭐️ JavaScript
@@ -21,13 +21,13 @@ I'm a third year computer science student at West Virginia University interested
 - ⭐️ MySQL
 - ⭐️ Git
 
-## I'm Currently Learning 🔭
+# I'm Currently Learning 🔭
 
 As a junior in my second semester, I'm currently learning:
-# Database design:
+## Database design:
 - ⚡️ MySQL
   
-# Computer Graphics:
+## Computer Graphics:
 - ⚡️ Python
 - ⚡️ Human Interface Design
 - ⚡️ OpenGL
@@ -35,7 +35,7 @@ As a junior in my second semester, I'm currently learning:
 - ⚡️ Linear Algebra
 - ⚡️ Graph Theory
 
-# Data/Computer Communications
+## Data/Computer Communications
 - ⚡️ TCP/IP protocol suite
 - ⚡️ Network protocols
 - ⚡️ Socket programming
