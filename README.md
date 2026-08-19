@@ -1,9 +1,10 @@
 ## Hi there, I'm Noor 👋
-I'm a third year computer science student at West Virginia University interested in:
+I'm a fourth year computer science student at West Virginia University interested in:
 - ⭐️ Full-Stack Development
 - ⭐️ Machine Learning and AI
 - ⭐️ Human Interface Design
 - ⭐️ Low-Level Systems Software
+- ⭐️ Product/Project Management
 
 
 # Tools and Technologies 💻
